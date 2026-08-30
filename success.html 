@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Audit Request Received | BubbleWeb</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="success-page">
+
+        <p class="eyebrow">
+            REQUEST RECEIVED
+        </p>
+
+        <h1>
+            Thanks. We've got your request.
+        </h1>
+
+        <p class="success-description">
+            We'll review your website and look for opportunities
+            to improve its design, performance and ability to
+            generate customers.
+        </p>
+
+        <p class="success-note">
+            We usually respond within 1 business day.
+        </p>
+
+        <a href="index.html" class="success-button">
+            Back to BubbleWeb →
+        </a>
+
+    </main>
+
+</body>
+
+</html>
