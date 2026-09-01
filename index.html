@@ -846,6 +846,7 @@
 
 
     <form class="audit-form" action="https://formspree.io/f/mzebzjon" method="POST">
+        <input type="hidden" name="_next" value="https://bubbleweb.online/success.html">
 
         <div class="form-group">
             <label for="name">Your name</label>
@@ -890,6 +891,7 @@
                 id="website"
                 name="website"
                 placeholder="https://yourwebsite.com"
+                required
             >
         </div>
 
@@ -897,7 +899,7 @@
         <div class="form-group">
             <label for="service">What do you need?</label>
 
-            <select id="service" name="service">
+            <select id="service" name="service" required>
 
                 <option value="">
                     Select an option
